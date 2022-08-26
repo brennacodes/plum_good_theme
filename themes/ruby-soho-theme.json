@@ -1939,7 +1939,7 @@
     "editor.hoverHighlightBackground": "#ff247678",
     "editor.wordHighlightStrongBackground": "#414141b8",
     "editor.wordHighlightBackground": "#545454b8",
-    "editor.lineHighlightBackground": "#ff93092a",
+    "editor.lineHighlightBackground": "#6262622a",
     "editor.lineHighlightBorder": "#00000030",
     "editorLineNumber.activeForeground": "#ffbf00",
     "editorLink.activeForeground": "#ffd42b",
