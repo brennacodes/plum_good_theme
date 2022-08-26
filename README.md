@@ -41,9 +41,9 @@ Add this into the settings file:
 }
 ```
 
-## Optional settings - Configure some colors manually
+## Optional settings - Configure colors manually
 
-If you like the theme as it is, the instructions below will not apply.
+If you like the theme as it is, the instructions below won't apply.
 
 This color theme removes many lines and borders by default, if you want you can add them back:
 
@@ -51,10 +51,10 @@ This color theme removes many lines and borders by default, if you want you can 
 {
   // Optional - Bring back some lines and borders
   "workbench.colorCustomizations": {
-    "sideBar.border": "#222",
-    "editorGroup.border": "#222",
-    "editorIndentGuide.background": "#222", // Indent lines
-    "editorIndentGuide.activeBackground": "#333", // Active indent line
+    "sideBar.border": "#insert_hex_number_here",
+    "editorGroup.border": "#insert_hex_number_here",
+    "editorIndentGuide.background": "#insert_hex_number_here", // Indent lines
+    "editorIndentGuide.activeBackground": "#insert_hex_number_here", // Active indent line
   }
 }
 ```
@@ -65,15 +65,15 @@ If you don't like the text selection and search highlight colors you can configu
 {
   "workbench.colorCustomizations": {
     // Text selection
-    "editor.selectionBackground": "#007acc",
-    "editor.selectionHighlightBackground": "#007acc",
-    "editor.inactiveSelectionBackground": "#007acc",
+    "editor.selectionBackground": "#insert_hex_number_here",
+    "editor.selectionHighlightBackground": "#insert_hex_number_here",
+    "editor.inactiveSelectionBackground": "#insert_hex_number_here",
     // Find results
-    "editor.findMatchBackground": "#fa05",
-    "editor.findMatchHighlightBackground": "#fa05",
-    "editor.findMatchBorder": "#fe0",
-    "editor.findMatchHighlightBorder": "#fe0",
-    "editor.selectionHighlightBorder": "#fe0",
+    "editor.findMatchBackground": "#insert_hex_number_here",
+    "editor.findMatchHighlightBackground": "#insert_hex_number_here",
+    "editor.findMatchBorder": "#insert_hex_number_here",
+    "editor.findMatchHighlightBorder": "#insert_hex_number_here",
+    "editor.selectionHighlightBorder": "#insert_hex_number_here",
   }
 }
 ```
@@ -82,5 +82,5 @@ If you don't like the text selection and search highlight colors you can configu
 
 ```
 cd ~/.vscode/extensions
-git clone https://github.com/brennacodes/plum_master_p_theme 
+git clone https://github.com/brennacodes/plum_good_theme 
 ```
