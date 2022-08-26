@@ -1,23 +1,23 @@
-# [VS Code Plum Master P Theme](https://marketplace.visualstudio.com/items?itemName=brennacodes.plum-master-p-theme)
+# [VS Code Plum Good Theme](https://marketplace.visualstudio.com/items?itemName=brennacodes.plum-good-theme)
 
 This theme was created with a focus of being easy on the eyes, while also being easy to read (and cool looking).
 
-![Screenshot](https://raw.githubusercontent.com/brennacodes/plum-master-p-theme/images/screenshot.png)
+![Screenshot]('./images/plum-good-theme.png')
 
 ## Install
 
-Follow the instructions in the [marketplace](https://marketplace.visualstudio.com/items?itemName=brennacodes.vscode-plum-master-p-theme) or install directly from the editor:
+Follow the instructions in the [marketplace](https://marketplace.visualstudio.com/items?itemName=brennacodes.vscode-plum-good-theme) or install directly from the editor:
 
 Press `Ctrl+Shift+P` (or `Cmd+Shift+P`)   
 Select `Extensions: Install Extensions`  
-Search for `Plum Master P`  
+Search for `Plum Good`  
 
 ## Activate
 
 With VS Code open:  
 Press `Ctrl+Shift+P` (or `Cmd+Shift+P`) 
 Select `Preferences: Color Theme`  
-Select `Plum Master P`.
+Select `Plum Good`.
 
 ## Enable additional darkness
 
@@ -77,5 +77,5 @@ If you don't like the text selection and search highlight colors you can configu
 
 ```
 cd ~/.vscode/extensions
-git clone https://github.com/brennacodes/plum_good_theme 
+git clone https://github.com/brennacodes/plum_master_p_theme 
 ```
