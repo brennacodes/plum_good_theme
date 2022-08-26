@@ -2,7 +2,12 @@
 
 This theme was created with a focus of being easy on the eyes, while also being easy to read (and cool looking).
 
+*Now with more plum goodness!!!*
+
+Check out the Ruby Soho theme for a more gemtastic version of the Plum Good Theme. Simply install this extension, and then select the Ruby Soho theme from the theme picker.
+
 ![Screenshot](/images/plum-good-theme.png)
+![Screenshot](/images/ruby-soho-theme.png)
 
 ## Install
 
