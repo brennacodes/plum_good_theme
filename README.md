@@ -6,7 +6,7 @@ This theme was created with a focus of being easy on the eyes, while also being 
 
 ## Install
 
-Follow the instructions in the [marketplace](https://marketplace.visualstudio.com/items?itemName=brennacodes.vscode-plum-good-theme) or install directly from the editor:
+Follow the instructions in the [marketplace](https://marketplace.visualstudio.com/items?itemName=brennacodes.plum-good-theme) or install directly from the editor:
 
 Press `Ctrl+Shift+P` (or `Cmd+Shift+P`)   
 Select `Extensions: Install Extensions`  
