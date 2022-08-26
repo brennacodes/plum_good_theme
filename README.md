@@ -2,7 +2,7 @@
 
 This theme was created with a focus of being easy on the eyes, while also being easy to read (and cool looking).
 
-![Screenshot]('./images/plum-good-theme.png')
+![Screenshot](/images/plum-good-theme.png)
 
 ## Install
 
