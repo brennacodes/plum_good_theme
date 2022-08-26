@@ -1,5 +1,5 @@
 {
-  "name": "Plum Good",
+  "name": "plum-good-theme",
   "displayName": "Plum Good Theme",
   "version": "0.1.0",
   "publisher": "brennacodes",
@@ -15,7 +15,7 @@
 			{
 				"label": "Plum Good Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/plum-good-theme.json"
+				"path": "/themes/plum-good-theme.json"
 			}
 		]
 	},
