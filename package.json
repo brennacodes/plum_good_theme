@@ -1,7 +1,7 @@
 {
   "name": "plum-good-theme",
   "displayName": "Plum Good Theme",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "brennacodes",
   "description": "A dark and juicy theme for VS Code.",
   "author": {
@@ -15,7 +15,7 @@
 			{
 				"label": "Plum Good Theme",
 				"uiTheme": "vs-dark",
-				"path": "/themes/plum-good-theme.json"
+				"path": "./themes/plum-good-theme.json"
 			}
 		]
 	},
