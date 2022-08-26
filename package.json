@@ -1,6 +1,6 @@
 {
-  "name": "plum master p",
-  "displayName": "Plum Master P",
+  "name": "Plum Good",
+  "displayName": "Plum Good Theme",
   "version": "0.1.0",
   "publisher": "brennacodes",
   "description": "A dark and juicy theme for VS Code.",
@@ -13,9 +13,9 @@
   "contributes": {
 		"themes": [
 			{
-				"label": "Plum Master",
+				"label": "Plum Good Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/plum-master-p-theme.json"
+				"path": "./themes/plum-good-theme.json"
 			}
 		]
 	},
