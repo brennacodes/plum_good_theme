@@ -13,21 +13,31 @@
   "contributes": {
     "themes": [
       {
-        "label": "Plum Good Theme",
+        "label": "PG-Original",
         "uiTheme": "vs-dark",
-        "path": "./themes/plum-good-theme.json"
+        "path": "./themes/PG-original.json"
       },
       {
-        "label": "Ruby Soho Theme",
+        "label": "PG-Ruby Soho",
         "uiTheme": "vs-dark",
-        "path": "./themes/ruby-soho-theme.json"
+        "path": "./themes/PG-ruby-soho.json"
+      },
+      {
+        "label": "PG-Blue Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PG-blue-moon.json"
+      },
+      {
+        "label": "PG-Mud Puddle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PG-mud-puddle.json"
       }
     ]
   },
   "categories": [
     "Themes"
   ],
-  "icon": "images/plum_good_wordmark.png",
+  "icon": "images/plum-good-wordmark.png",
   "galleryBanner": {
     "color": "#161019",
     "theme": "dark"
