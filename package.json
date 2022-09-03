@@ -25,12 +25,12 @@
       {
         "label": "PG-Plum Great",
         "uiTheme": "vs-dark",
-        "path": "./themes/PG-mud-puddle.json"
+        "path": "./themes/PG-mud-plum-great.json"
       },
       {
         "label": "PG-Red Clay",
         "uiTheme": "vs-dark",
-        "path": "./themes/PG-mud-puddle.json"
+        "path": "./themes/PG-red-clay.json"
       },
       {
         "label": "PG-Mud Puddle",
