@@ -13,11 +13,6 @@ Theme names are listed along with each image below.
 </figure>
 
 <figure>
-  <img src="./images/pg-original.png" alt="Plum Good Theme" style="width:100%">
-  <figcaption align = "center"><b>Plum Good Theme</b> (PG-Original)</figcaption>
-</figure>
-
-<figure>
   <img src="./images/pg-blue-moon.png" alt="Blue Moon Theme" style="width:100%">
   <figcaption align = "center"><b>Blue Moon Theme</b> (PG-Blue Moon)</figcaption>
 </figure>
