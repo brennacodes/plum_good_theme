@@ -13,11 +13,6 @@
   "contributes": {
     "themes": [
       {
-        "label": "PG-Original",
-        "uiTheme": "vs-dark",
-        "path": "./themes/PG-original.json"
-      },
-      {
         "label": "PG-Ruby Soho",
         "uiTheme": "vs-dark",
         "path": "./themes/PG-ruby-soho.json"
@@ -31,13 +26,11 @@
         "label": "PG-Plum Great",
         "uiTheme": "vs-dark",
         "path": "./themes/PG-mud-puddle.json"
-      }
       },
       {
         "label": "PG-Red Clay",
         "uiTheme": "vs-dark",
         "path": "./themes/PG-mud-puddle.json"
-      }
       },
       {
         "label": "PG-Mud Puddle",

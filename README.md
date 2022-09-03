@@ -8,22 +8,32 @@ To select a theme, find the theme name in the command palette (Ctrl+Shift+P) and
 Theme names are listed along with each image below.
 
 <figure>
-  <img src="./images/plum-good-theme.png" alt="Plum Good Theme" style="width:100%">
+  <img src="./images/pg-plum-great.png" alt="Plum Great Theme" style="width:100%">
+  <figcaption align = "center"><b>Plum Great Theme</b> (PG-Plum Great)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-original.png" alt="Plum Good Theme" style="width:100%">
   <figcaption align = "center"><b>Plum Good Theme</b> (PG-Original)</figcaption>
 </figure>
 
 <figure>
-  <img src="./images/ruby-soho-theme.png" alt="Ruby Soho Theme" style="width:100%">
-  <figcaption align = "center"><b>Ruby Soho Theme</b> (PG-Ruby Soho)</figcaption>
-</figure>
-
-<figure>
-  <img src="./images/blue-moon-theme.png" alt="Blue Moon Theme" style="width:100%">
+  <img src="./images/pg-blue-moon.png" alt="Blue Moon Theme" style="width:100%">
   <figcaption align = "center"><b>Blue Moon Theme</b> (PG-Blue Moon)</figcaption>
 </figure>
 
 <figure>
-  <img src="./images/mud-puddle-theme.png" alt="Mud Puddle Theme" style="width:100%">
+  <img src="./images/pg-ruby-soho.png" alt="Ruby Soho Theme" style="width:100%">
+  <figcaption align = "center"><b>Ruby Soho Theme</b> (PG-Ruby Soho)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-red-clay.png" alt="Red Clay Theme" style="width:100%">
+  <figcaption align = "center"><b>Red Clay Theme</b> (PG-Red Clay)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-mud-puddle.png" alt="Mud Puddle Theme" style="width:100%">
   <figcaption align = "center"><b>Mud Puddle Theme</b> (PG-Mud Puddle)</figcaption>
 </figure>
 
