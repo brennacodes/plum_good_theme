@@ -23,6 +23,11 @@ Theme names are listed along with each image below.
 </figure>
 
 <figure>
+  <img src="./images/pg-forest.png" alt="Forest Theme" style="width:100%">
+  <figcaption align = "center"><b>Forest Theme</b> (PG-Forest)</figcaption>
+</figure>
+
+<figure>
   <img src="./images/pg-red-clay.png" alt="Red Clay Theme" style="width:100%">
   <figcaption align = "center"><b>Red Clay Theme</b> (PG-Red Clay)</figcaption>
 </figure>
