@@ -50,7 +50,7 @@ Search for `Plum Good`
 With VS Code open:  
 Press `Ctrl+Shift+P` (or `Cmd+Shift+P`) 
 Select `Preferences: Color Theme`  
-Select `PG-Original`(or `PG-Ruby Soho`, `PG-Blue Moon`, or `PG-Mud Puddle`)
+Select `PG-Plum Great`(or `PG-Ruby Soho`, `PG-Blue Moon`, `PG-Mud Puddle`, etc.)
 
 ## Contributing
 ```
