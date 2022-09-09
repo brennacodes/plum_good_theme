@@ -1,7 +1,7 @@
 {
   "name": "plum-good-theme",
   "displayName": "Plum Good Theme",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "publisher": "brennacodes",
   "description": "A dark and juicy theme for VS Code.",
   "author": {
@@ -23,9 +23,19 @@
         "path": "./themes/PG-blue-moon.json"
       },
       {
+        "label": "PG-Aqualung",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pg-aqualung.json"
+      },
+      {
         "label": "PG-Plum Great",
         "uiTheme": "vs-dark",
         "path": "./themes/PG-plum-great.json"
+      },
+      {
+        "label": "PG-Plum Grooby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pg-plum-groovy.json"
       },
       {
         "label": "PG-Red Clay",
@@ -36,6 +46,21 @@
         "label": "PG-Mud Puddle",
         "uiTheme": "vs-dark",
         "path": "./themes/PG-mud-puddle.json"
+      },
+      {
+        "label": "PG-May Be Concrete",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pg-may-be-concrete.json"
+      },
+      {
+        "label": "PG-Mud Puddle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PG-mud-puddle.json"
+      },
+      {
+        "label": "PG-Ridgeline",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pg-ridgeline.json"
       },
       {
         "label": "PG-Forest",

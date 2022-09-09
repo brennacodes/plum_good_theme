@@ -13,8 +13,18 @@ Theme names are listed along with each image below.
 </figure>
 
 <figure>
+  <img src="./images/pg-plum-groovy.png" alt="Plum Groovy Theme" style="width:100%">
+  <figcaption align = "center"><b>Plum Groovy Theme</b> (PG-Plum Groovy)</figcaption>
+</figure>
+
+<figure>
   <img src="./images/pg-blue-moon.png" alt="Blue Moon Theme" style="width:100%">
   <figcaption align = "center"><b>Blue Moon Theme</b> (PG-Blue Moon)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-aqualung.png" alt="Aqualung Theme" style="width:100%">
+  <figcaption align = "center"><b>Aqualung Theme</b> (PG-Aqualung)</figcaption>
 </figure>
 
 <figure>
@@ -35,6 +45,16 @@ Theme names are listed along with each image below.
 <figure>
   <img src="./images/pg-mud-puddle.png" alt="Mud Puddle Theme" style="width:100%">
   <figcaption align = "center"><b>Mud Puddle Theme</b> (PG-Mud Puddle)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-may-be-concrete.png" alt="May Be Concrete Theme" style="width:100%">
+  <figcaption align = "center"><b>May Be Concrete Theme</b> (PG-May Be Concrete)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-ridgeline.png" alt="Ridgeline Theme" style="width:100%">
+  <figcaption align = "center"><b>Ridgeline Theme</b> (PG-Ridgeline)</figcaption>
 </figure>
 
 ## Install
