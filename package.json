@@ -15,12 +15,12 @@
       {
         "label": "PG-Ruby Soho",
         "uiTheme": "vs-dark",
-        "path": "./themes/PG-ruby-soho.json"
+        "path": "./themes/pg-ruby-soho.json"
       },
       {
         "label": "PG-Blue Moon",
         "uiTheme": "vs-dark",
-        "path": "./themes/PG-blue-moon.json"
+        "path": "./themes/pg-blue-moon.json"
       },
       {
         "label": "PG-Aqualung",
@@ -30,7 +30,7 @@
       {
         "label": "PG-Plum Great",
         "uiTheme": "vs-dark",
-        "path": "./themes/PG-plum-great.json"
+        "path": "./themes/pg-plum-great.json"
       },
       {
         "label": "PG-Plum Groovy",
@@ -40,12 +40,12 @@
       {
         "label": "PG-Red Clay",
         "uiTheme": "vs-dark",
-        "path": "./themes/PG-red-clay.json"
+        "path": "./themes/pg-red-clay.json"
       },
       {
         "label": "PG-Mud Puddle",
         "uiTheme": "vs-dark",
-        "path": "./themes/PG-mud-puddle.json"
+        "path": "./themes/pg-mud-puddle.json"
       },
       {
         "label": "PG-May Be Concrete",
