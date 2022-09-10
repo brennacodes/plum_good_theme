@@ -4,7 +4,7 @@ This theme was created with a focus of being easy on the eyes, while also being 
 
 *Now with more plum goodness!!!*
 
-To select a theme, find the theme name in the command palette (Ctrl+Shift+P) and select it.  
+To select a theme, first install this extension. Then, find the theme name in the command palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and select it.  
 Theme names are listed along with each image below.
 
 <figure>
@@ -20,6 +20,16 @@ Theme names are listed along with each image below.
 <figure>
   <img src="./images/pg-may-be-concrete.png" alt="May Be Concrete Theme" style="width:100%">
   <figcaption align = "center"><b>May Be Concrete Theme</b> (PG-May Be Concrete)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-ruby-clay.png" alt="Ruby Clay Theme" style="width:100%">
+  <figcaption align = "center"><b>Ruby Clay Theme</b> (PG-May Ruby Clay)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-punkin-spice.png" alt="Punkin Spice Theme" style="width:100%">
+  <figcaption align = "center"><b>Punkin Spice Theme</b> (PG-Punkin Spice)</figcaption>
 </figure>
 
 <figure>
