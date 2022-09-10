@@ -8,6 +8,36 @@ To select a theme, find the theme name in the command palette (Ctrl+Shift+P) and
 Theme names are listed along with each image below.
 
 <figure>
+  <img src="./images/pg-red-clay.png" alt="Red Clay Theme" style="width:100%">
+  <figcaption align = "center"><b>Red Clay Theme</b> (PG-Red Clay)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-mud-puddle.png" alt="Mud Puddle Theme" style="width:100%">
+  <figcaption align = "center"><b>Mud Puddle Theme</b> (PG-Mud Puddle)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-may-be-concrete.png" alt="May Be Concrete Theme" style="width:100%">
+  <figcaption align = "center"><b>May Be Concrete Theme</b> (PG-May Be Concrete)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-ridgeline.png" alt="Ridgeline Theme" style="width:100%">
+  <figcaption align = "center"><b>Ridgeline Theme</b> (PG-Ridgeline)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-steely-daniel.png" alt="Steely Daniel Theme" style="width:100%">
+  <figcaption align = "center"><b>Steely Daniel Theme</b> (PG-Steely Daniel)</figcaption>
+</figure>
+
+<figure>
+  <img src="./images/pg-slax.png" alt="Slax Theme" style="width:100%">
+  <figcaption align = "center"><b>Slax Theme</b> (PG-Slax)</figcaption>
+</figure>
+
+<figure>
   <img src="./images/pg-plum-great.png" alt="Plum Great Theme" style="width:100%">
   <figcaption align = "center"><b>Plum Great Theme</b> (PG-Plum Great)</figcaption>
 </figure>
@@ -37,25 +67,6 @@ Theme names are listed along with each image below.
   <figcaption align = "center"><b>Forest Theme</b> (PG-Forest)</figcaption>
 </figure>
 
-<figure>
-  <img src="./images/pg-red-clay.png" alt="Red Clay Theme" style="width:100%">
-  <figcaption align = "center"><b>Red Clay Theme</b> (PG-Red Clay)</figcaption>
-</figure>
-
-<figure>
-  <img src="./images/pg-mud-puddle.png" alt="Mud Puddle Theme" style="width:100%">
-  <figcaption align = "center"><b>Mud Puddle Theme</b> (PG-Mud Puddle)</figcaption>
-</figure>
-
-<figure>
-  <img src="./images/pg-may-be-concrete.png" alt="May Be Concrete Theme" style="width:100%">
-  <figcaption align = "center"><b>May Be Concrete Theme</b> (PG-May Be Concrete)</figcaption>
-</figure>
-
-<figure>
-  <img src="./images/pg-ridgeline.png" alt="Ridgeline Theme" style="width:100%">
-  <figcaption align = "center"><b>Ridgeline Theme</b> (PG-Ridgeline)</figcaption>
-</figure>
 
 ## Install
 

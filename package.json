@@ -1,7 +1,7 @@
 {
   "name": "plum-good-theme",
   "displayName": "Plum Good Theme",
-  "version": "0.6.7",
+  "version": "0.7.0",
   "publisher": "brennacodes",
   "description": "A dark and juicy theme for VS Code.",
   "author": {
@@ -56,6 +56,16 @@
         "label": "PG-Ridgeline",
         "uiTheme": "vs-dark",
         "path": "./themes/pg-ridgeline.json"
+      },
+      {
+        "label": "PG-Slax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pg-slax.json"
+      },
+      {
+        "label": "PG-Steely Daniel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pg-steely-daniel.json"
       },
       {
         "label": "PG-Forest",
